@@ -30,3 +30,6 @@ yarn-error.log*
 
 # vercel
 .vercel
+
+keys.json
+metamask_password.json
